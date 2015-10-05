@@ -1,7 +1,10 @@
 # machine-learning-classify-handwritten-digit
             Computer Science 4033/5033: Machine Learning
-  Classify handwritten digits using machine learning techniques 
+            
+  Classify handwritten digits using machine learning techniques
+
                 Yan Liang, Yunzhi Wang and Delong Zhao 
+
                               Fall 2015
   
   Project scope
