@@ -1,1 +1,0 @@
-In this folder we used logistic regression model to classify digit images.
