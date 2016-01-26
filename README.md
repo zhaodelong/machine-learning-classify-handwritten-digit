@@ -1,4 +1,6 @@
 # machine-learning-classify-handwritten-digit
+
+[![Join the chat at https://gitter.im/zhaodelong/machine-learning-classify-handwritten-digit](https://badges.gitter.im/zhaodelong/machine-learning-classify-handwritten-digit.svg)](https://gitter.im/zhaodelong/machine-learning-classify-handwritten-digit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
             Computer Science 4033/5033: Machine Learning
             
   Classify handwritten digits using machine learning techniques
